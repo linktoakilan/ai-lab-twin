@@ -1,0 +1,24 @@
+{
+    "full_name": "Akilan Arivazhagan",
+    "name": "Akilan",
+    "current_role": "DevOps Architect",
+    "location": "Spring Hill, Tennessee",
+    "email": "linktoakilan@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/akilan-arivazhagan-6179b3b1/",
+    "specialties": [
+        "DevOps",
+        "Cloud",
+        "Automation",
+        "Architecture",
+        "Security",
+        "AI/ML"
+    ],
+    "years_experience": 10,
+    "education": [
+        {
+            "degree": "Computer Science and Engineering",
+            "institution": "Anna University",
+            "year": "2012"
+        }
+    ]
+}
